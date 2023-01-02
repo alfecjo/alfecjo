@@ -20,7 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 
-#### 🌱 Apaixonado por tecnologia, principalmente.
+#### 🌱 Apaixonado por tecnologia, principalmente:
 #####    Desenvolvimento de sistemas desktop e web (Java Swing - J2EE-Jakarta - Rest - Monolíticos) .
 #####    Automação com microcontroladores da família ARM Cortex M, em especial: STM32f767zi. 
 
