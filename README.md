@@ -30,11 +30,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - ⚡ Estes são os fatores que me encoraja, emociona e empurra a participar e conquistar este ciclo de modernização.
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=6t7s2k4yyafo&utm_content=21w0zon)
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-almeida-79028910a)
-
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alfecjo)
-
 [![twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alfecjo)
-
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsoNXQpjuBZRCL_FRi25zpA)
