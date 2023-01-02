@@ -29,6 +29,5 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - ⚡ Terceiro e não menos importante, sinto que preciso fazer parte dos esforços de modernização em processos de inovação com ênfase especial na trajetória tecnológica, considerando seus fatores positivos e negativos, impactos sociais e econômicos, associados a velocidade de transição. 
 - ⚡ Estes são os fatores que me encoraja, emociona e empurra a conquistar e participar deste ciclo de modernização.
 
-[![GMail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=6t7s2k4yyafo&utm_content=21w0zon)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alfecjo@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=6t7s2k4yyafo&utm_content=21w0zon)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/antonio-almeida-79028910a)
