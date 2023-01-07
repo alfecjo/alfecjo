@@ -1,6 +1,13 @@
 ### Olá, sou Antonio Almeida!
 ####    Sejam todos, muito bem vindos!👋
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfecjo&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
+
 <!--
 **alfecjo/alfecjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://dev.to/envoy_/150-badges-for-github-pnk
