@@ -1,10 +1,6 @@
 ### Olá, sou Antonio Almeida!
 ####    Sejam todos, muito bem vindos!👋
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfecjo&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
-
 <!--
 **alfecjo/alfecjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://dev.to/envoy_/150-badges-for-github-pnk
@@ -32,6 +28,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - ⚡ Segundo, as tecnologias dos últimos dez anos, jogam luz aos olhos de um mecatrônico que durante muito tempo, enxergou de forma holística estes cenários, agora desmembrados em fatos, bem como, poderosas ferramentas de desenvolvimento, velocidade de processamento absurda, abundancia quase que inesgotável de memória (guardadas as proporções), sem falar a inimaginável rapidez na comunicação, juntos, criam um cenário exponencialmente atraente. 
 - ⚡ Terceiro e não menos importante, sinto que preciso fazer parte dos esforços de modernização em processos de inovação com ênfase especial na trajetória tecnológica, considerando seus fatores positivos e negativos, impactos sociais e econômicos, associados a velocidade de transição. 
 - ⚡ Estes são os fatores que me encoraja, emociona e empurra a participar e conquistar este ciclo de modernização.
+
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfecjo&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=6t7s2k4yyafo&utm_content=21w0zon)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-almeida-79028910a)
