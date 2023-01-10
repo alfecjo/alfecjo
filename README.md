@@ -39,3 +39,4 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alfecjo)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsoNXQpjuBZRCL_FRi25zpA)
 [![me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alfecjo.github.io/)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511934130986&text=Oi%20Antonio)
