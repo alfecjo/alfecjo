@@ -16,12 +16,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente aperfeiçoando conhecimentos em tecnologia: Web, desktop e mobile. Java, Kotlin e JS no back, JS, HTML, CSS, React no fornt...
+#### 🔭 Eternamente aperfeiçoando conhecimentos em tecnologia: Web, desktop e mobile. Java, Kotlin e JS no back, JS, HTML,            CSS, React no fornt...
 
 
 #### Apaixonado por tecnologia:
-#####    Java Swing - J2EE-Jakarta - Android Native - Monolíticos) .
-#####    Microcontroladores da família ARM Cortex M. 
+    Java Swing - J2EE-Jakarta - Android Native - Monolíticos) .
+    Microcontroladores da família ARM Cortex M. 
 
 - ⚡ Características básicas do vetor que me motiva: Mecânica,  Eletroeletrônica/Elétrica e Informática como áreas de pesquisa e atuação (mecatrônico de formação: Técnico, Tecnólogo, Engenheiro) sempre estive envolvido com desenvolvimento de software, bem como, projetos eletromecânicos.
 - ⚡ As tecnologias dos últimos dez anos, jogam luz aos olhos de um mecatrônico que durante muito tempo, enxergou de forma holística estes cenários, agora desmembrados em fatos, bem como, poderosas ferramentas de desenvolvimento, velocidade de processamento absurda, abundancia quase que inesgotável de memória (guardadas as proporções), sem falar a inimaginável rapidez na comunicação. Juntos, criam um cenário exponencialmente atraente. 
