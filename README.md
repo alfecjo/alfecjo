@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin, JS no back, JS, HTML,    CSS, React no front, AWS...Mecânica, eletroeletrônica/elétrica, informática em geral!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin, JS, (back-end), JS, HTML,    CSS, React, (front-end). AWS, (preferida-deploy)...Mecânica, eletroeletrônica/elétrica, informática!
 
 
 #### Apaixonado por tecnologia:
