@@ -20,7 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 #### Apaixonado por tecnologia:
-    Java Swing - J2EE-Jakarta - Android Native - Monolíticos) .
+   
     Microcontroladores da família ARM Cortex M. 
     https://www.linkedin.com/in/antonio-almeida-79028910a
 
