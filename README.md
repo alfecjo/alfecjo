@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin (Ktor), JS, Node, (back-end), JS, HTML,    CSS, React, Angular (Typescript), (front-end). AWS (deploy)...Mecânica, eletroeletrônica/elétrica, informática (C++, C, Java-J2EE, Kotlin-Native/Multiplataforma, ReactJS)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin (Ktor), JS, Node, JS, HTML,    CSS, React, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial (Android Java-Native, C++, C, Java-J2EE, Kotlin-Native/Multiplataforma, ReactJS)!
 
 
 #### Apaixonado por tecnologia:
@@ -28,7 +28,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - ⚡ As tecnologias dos últimos dez anos, jogam luz aos olhos de um mecatrônico que durante muito tempo, enxergou de forma holística estes cenários, agora desmembrados em fatos, bem como, poderosas ferramentas de desenvolvimento, velocidade de processamento absurda, abundancia quase que inesgotável de memória (guardadas as proporções), sem falar a inimaginável rapidez na comunicação. Juntos, criam um cenário exponencialmente atraente. 
 - ⚡ Sinto necessidade de fazer parte dos esforços de modernização e inovação com ênfase especial em tecnologia, considerando seus fatores positivos e negativos, impactos sociais e econômicos, associados a velocidade de transição.
 
-- ⚡ Especialista em Desenvolvimento Web e microcontroladores, especialmente família STM32f. Vidrado por tecnologia, empreendedorismo, audiovisual e animais. Em minha carreira, dedico-me de uma forma ou de outra a assuntos ligados ao empreendedorismo, além de atuar como Desenvolvedor Fullstack, professor e redator técnico. Gosto de usar meu tempo livre para assistir  filmes (diversos gêneros), jogar futebol, bolinha de gude, escrever, me atualizar e passar um bom tempo brincando e mimando meus animais (ou mesmo eles me animando..).
+- ⚡ Especialista em Desenvolvimento Web e microcontroladores, especialmente família ARM-Cortex STM32f7. Também fazem parte do meu contexto, empreendedorismo, audiovisual e animais. Em minha carreira, dedico-me de uma forma ou de outra a assuntos ligados ao empreendedorismo, além de atuar como Desenvolvedor Fullstack, professor e redator técnico. Gosto de usar meu tempo livre para assistir  filmes (diversos gêneros), jogar futebol, bolinha de gude, escrever, me atualizar e passar um bom tempo brincando e mimando meus animais (ou mesmo eles me animando..).
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
 
