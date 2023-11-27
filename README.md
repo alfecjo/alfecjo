@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin (Ktor), JS, Node, JS, HTML,    CSS, React, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial (Android Java-Native, C++, C, Java-J2EE, Kotlin-Native/Multiplataforma, ReactJS)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin (Ktor), Node, HTML, JS, CSS, React, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma, ReactJS)!
 
 
 #### Apaixonado por tecnologia:
