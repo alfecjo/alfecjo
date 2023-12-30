@@ -25,15 +25,15 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os variados dispositivos atuais, incluindo o Mecatrônico!
 
-Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
+☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
 
 🔧 Áreas de Atuação:
 Desenvolvimento Web e Microcontroladores (especialmente família ARM-Cortex STM32f).
 Empreendedorismo, Audiovisual e Animais.
 
-Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro! 🚀🔧
+✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
 
-Junte-se a mim nesta página do GitHub, onde exploramos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
+🔊 Junte-se a mim nesta página do GitHub, onde exploramos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
 
 🕰️ Viajando no Tempo da Tecnologia: A Revolução dos Microcomputadores
 
@@ -82,10 +82,11 @@ Definição: Desenvolvimento de sistemas que integram componentes mecânicos e e
 
 5. ARM-Cortex STM32f7:
 Definição: Uma família de microcontroladores utilizada para controlar dispositivos eletrônicos.
-É como se fosse o cérebro de muitos aparelhos inteligentes contemporâneos. Podem ser programados ou até mesmo receber
-instruções em tempo real pela internet.
+É como se fosse o cérebro de muitos aparelhos inteligentes contemporâneos, têm tamanho e recursos de processamento e memória
+reduzidos em relação aos computadores atuais. Entretanto, podem ser programados ou até mesmo receber
+instruções em tempo real pela internet e são a base das tecnologias do futuro.
 
-6. Fullstack:
+7. Fullstack:
 Definição: Uma pessoa que trabalha tanto na parte do servidor (back-end) quanto na parte do cliente (front-end) em
 desenvolvimento web.
 
