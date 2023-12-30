@@ -16,20 +16,34 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, desenvolvimento de software para desktop, mobile. Uso Java, Kotlin (Ktor, Quarkus), HTML, JS, CSS, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, desenvolvimento de software para desktop, mobile, programação reativa e imperativa. Uso Java, Angular @ngrx, Kotlin (Ktor, Quarkus ), HTML, JS, CSS, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
 
 
 #### Apaixonado por tecnologia:
    
-    https://www.linkedin.com/in/antonio-almeida-79028910a
+    https://alfecjo.github.io/
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os variados dispositivos atuais, incluindo o Mecatrônico!
 
-Olá, sou Antonio Almeida, um entusiasta apaixonado por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
+Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
 
 🔧 Áreas de Atuação:
 Desenvolvimento Web e Microcontroladores (especialmente família ARM-Cortex STM32f).
 Empreendedorismo, Audiovisual e Animais.
+
+Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro! 🚀🔧
+
+Junte-se a mim nesta página do GitHub, onde exploramos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
+
+🕰️ Viajando no Tempo da Tecnologia: A Revolução dos Microcomputadores
+
+Na distante década de 80, os microcomputadores eram como relíquias tecnológicas, caros, lentos e ofereciam recursos limitados. Um destaque nesse cenário foi o XT 8086, um marco que remete a uma época em que a computação pessoal estava engatinhando.
+
+Ao longo dos anos, a tecnologia deu saltos gigantescos. Inicialmente, testemunhamos computadores com poder de processamento superior, mas com memória e armazenamento limitados. As linguagens de programação tornavam-se mais eficientes e acessíveis, enquanto o hardware e as telecomunicações lutavam para acompanhar essa revolução digital.
+
+Foi apenas em meados de 2010 que testemunhamos a harmonia entre software e hardware. Nesse ponto, o resultado de intensa pesquisa e esforços conjuntos possibilitou uma sinergia sem precedentes na história da computação.
+
+A evolução não foi apenas técnica, mas uma jornada repleta de desafios e conquistas. Este é o ponto da história em que as linguagens de programação floresceram em eficiência, a acessibilidade tornou-se a palavra de ordem, e a capacidade de processamento, armazenamento e comunicação atingiu novos patamares para chegar ao que vemos hoje.
 
 💡 Motivação:
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
