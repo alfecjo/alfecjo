@@ -37,13 +37,17 @@ Junte-se a mim nesta página do GitHub, onde exploramos não apenas códigos e p
 
 🕰️ Viajando no Tempo da Tecnologia: A Revolução dos Microcomputadores
 
-Na distante década de 80, os microcomputadores eram como relíquias tecnológicas, caros, lentos e ofereciam recursos limitados. Um destaque nesse cenário foi o XT 8086, um marco que remete a uma época em que a computação pessoal estava engatinhando.
+💻 Na distante década de 80, os microcomputadores eram como relíquias tecnológicas, caros, lentos e ofereciam recursos limitados. Um destaque nesse cenário foi o PC xt 8086, primeiro computador no Brasil que conseguiu acessar diretamente a NSFnet, a rede acadêmica da National Science Foundation (NSF) que foi precursora da internet. Isso num marco que remete a uma época em que a computação pessoal estava engatinhando. Atualmente, um STM32F767ZI development board, fabricado pela STMicroelectronics, possui imensurável superioridade em capacidade de recursos, um centésimo do tamanho e peso em relação ao primeiro PC lançado pela IBM em 12 de Agosto de 1981 com a denominação comercial IBM 5150.
 
-Ao longo dos anos, a tecnologia deu saltos gigantescos. Inicialmente, testemunhamos computadores com poder de processamento superior, mas com memória e armazenamento limitados. As linguagens de programação tornavam-se mais eficientes e acessíveis, enquanto o hardware e as telecomunicações lutavam para acompanhar essa revolução digital.
+💾 Ao longo dos anos, a tecnologia deu saltos gigantescos. Inicialmente, testemunhamos computadores com poder de processamento superior, mas com memória e armazenamento limitados. As linguagens de programação tornavam-se mais eficientes e acessíveis, enquanto o hardware e as telecomunicações lutavam para acompanhar essa revolução digital.
 
-Foi apenas em meados de 2010 que testemunhamos a harmonia entre software e hardware. Nesse ponto, o resultado de intensa pesquisa e esforços conjuntos possibilitou uma sinergia sem precedentes na história da computação.
+🌎 Foi apenas em meados de 2010 que testemunhamos a harmonia entre software e hardware. Nesse ponto, o resultado de intensa pesquisa e esforços conjuntos possibilitou uma sinergia sem precedentes na história da computação.
 
-A evolução não foi apenas técnica, mas uma jornada repleta de desafios e conquistas. Este é o ponto da história em que as linguagens de programação floresceram em eficiência, a acessibilidade tornou-se a palavra de ordem, e a capacidade de processamento, armazenamento e comunicação atingiu novos patamares para chegar ao que vemos hoje.
+🛰️ A evolução não foi apenas técnica, mas uma jornada repleta de desafios e conquistas. Este é o ponto da história em que as linguagens de programação floresceram em eficiência, a acessibilidade tornou-se a palavra de ordem, e a capacidade de processamento, armazenamento e comunicação atingiu novos patamares para chegar ao que vemos hoje.
+
+🏆 Não menos importante, foi a onda de desenvolvimento de software colaborativo na internet. Também comumente referida como "Open Source" (código aberto) ou "Software Livre". Essa abordagem envolve a disponibilização do código-fonte de um software para que a comunidade possa visualizá-lo, modificar, aprimorar e distribuir. 
+
+👀 Assim é como estamos hoje!
 
 💡 Motivação:
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
@@ -51,7 +55,7 @@ Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologia
 🌐 Compromisso:
 Dedico minha carreira ao desenvolvimento Fullstack, à docência e à redação técnica. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol de botão e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
 
-Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
+🥇🎬 Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
 
