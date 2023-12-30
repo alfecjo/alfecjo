@@ -49,7 +49,7 @@ A evolução não foi apenas técnica, mas uma jornada repleta de desafios e con
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
 🌐 Compromisso:
-Dedico minha carreira ao desenvolvimento Fullstack, à docência e à redação técnica. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
+Dedico minha carreira ao desenvolvimento Fullstack, à docência e à redação técnica. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol de botão e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
 
 Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
 
