@@ -16,19 +16,28 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Web, desktop, mobile. Java, Kotlin (Ktor), Node, HTML, JS, CSS, React, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma, ReactJS)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, desenvolvimento de software para desktop, mobile. Uso Java, Kotlin (Ktor, Quarkus), HTML, JS, CSS, Angular (Typescript), AWS... Mecânica, eletroeletrônica/elétrica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
 
 
 #### Apaixonado por tecnologia:
    
-    Microcontroladores da família ARM Cortex M. 
     https://www.linkedin.com/in/antonio-almeida-79028910a
 
-- ⚡ Características básicas do vetor que me motiva: Mecânica,  Eletroeletrônica/Elétrica e Informática como áreas de pesquisa e atuação (mecatrônico de formação: Técnico, Tecnólogo, Engenheiro) sempre estive envolvido com desenvolvimento de software, bem como, projetos eletromecânicos.
-- ⚡ As tecnologias dos últimos dez anos, jogam luz aos olhos de um mecatrônico que durante muito tempo, enxergou de forma holística estes cenários, agora desmembrados em fatos, bem como, poderosas ferramentas de desenvolvimento, velocidade de processamento absurda, abundancia quase que inesgotável de memória (guardadas as proporções), sem falar a inimaginável rapidez na comunicação. Juntos, criam um cenário exponencialmente atraente. 
-- ⚡ Sinto necessidade de fazer parte dos esforços de modernização e inovação com ênfase especial em tecnologia, considerando seus fatores positivos e negativos, impactos sociais e econômicos, associados a velocidade de transição.
+🚀 Explorando o Universo do desenvolvimento de aplicações para os variados dispositivos atuais, incluindo o Mecatrônico!
 
-- ⚡ Especialista em Desenvolvimento Web e microcontroladores, especialmente família ARM-Cortex STM32f7. Também fazem parte do meu contexto, empreendedorismo, audiovisual e animais. Em minha carreira, dedico-me de uma forma ou de outra a assuntos ligados ao empreendedorismo, além de atuar como Desenvolvedor Fullstack, professor e redator técnico. Gosto de usar meu tempo livre para assistir  filmes (diversos gêneros), jogar futebol, bolinha de gude, escrever, me atualizar e passar um bom tempo brincando e mimando meus animais (ou mesmo eles me animando..).
+Olá, sou Antonio Almeida, um entusiasta apaixonado por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
+
+🔧 Áreas de Atuação:
+Desenvolvimento Web e Microcontroladores (especialmente família ARM-Cortex STM32f).
+Empreendedorismo, Audiovisual e Animais.
+
+💡 Motivação:
+Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
+
+🌐 Compromisso:
+Dedico minha carreira ao desenvolvimento Fullstack, à docência e à redação técnica. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
+
+Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
 
@@ -41,3 +50,26 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@acthings)
 [![me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://alfecjo.github.io/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511934130986&text=Oi%20Antonio)
+
+Vocabulário Técnico Simplificado:
+1. Mecatrônica:
+Definição: Uma área que integra e que combina conhecimentos de mecânica, eletrônica/elétrica e informática para criar
+sistemas e produtos automatizados.
+
+3. Desenvolvimento de Software:
+Definição: Criar programas de computador que permitem que dispositivos ou sistemas realizem tarefas específicas.
+
+4. Projetos Eletromecânicos:
+Definição: Desenvolvimento de sistemas que integram componentes mecânicos e eletrônicos para realizar funções específicas.
+
+5. ARM-Cortex STM32f7:
+Definição: Uma família de microcontroladores utilizada para controlar dispositivos eletrônicos.
+É como se fosse o cérebro de muitos aparelhos inteligentes contemporâneos. Podem ser programados ou até mesmo receber
+instruções em tempo real pela internet.
+
+6. Fullstack:
+Definição: Uma pessoa que trabalha tanto na parte do servidor (back-end) quanto na parte do cliente (front-end) em
+desenvolvimento web.
+
+8. Fronteiras da Mecatrônica:
+Definição: Exploração dos limites e possibilidades na integração de mecânica, eletrônica e informática.
