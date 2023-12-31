@@ -23,7 +23,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
    
     https://alfecjo.github.io/
 
-🚀 Explorando o Universo do desenvolvimento de aplicações para os variados dispositivos atuais, incluindo o Mecatrônico!
+🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
 
