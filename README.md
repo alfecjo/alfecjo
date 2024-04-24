@@ -21,7 +21,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### 🎓 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78 "AWS Certified Cloud Practitioner")
-[![AWS Knowledge: Architecting](https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d "AWS Knowledge: Architecting")
+[![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d "AWS Knowledge: Architecting")
 
 #### Apaixonado por tecnologia:
    
