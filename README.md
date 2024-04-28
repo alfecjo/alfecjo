@@ -18,7 +18,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 #### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, desenvolvimento de software para desktop, mobile, programação reativa e imperativa. Uso Java, Angular @ngrx, Kotlin (Ktor, Quarkus ), HTML, JS, CSS, Typescript, AWS... Mecânica, eletroeletrônica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
 
-### ☁️ Clouds
+### ☁️ AWS Cloud
 ### 🎓 Certificações
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/9b6d8643-c840-4057-89b2-5f4a280141f2 "AWS re/Start")
