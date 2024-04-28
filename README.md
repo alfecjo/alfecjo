@@ -21,7 +21,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### ☁️ Clouds
 ### 🎓 Certificações
 
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b "AWS re/Start")
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/9b6d8643-c840-4057-89b2-5f4a280141f2 "AWS re/Start")
+[![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b "AWS Educate Getting Started with Serverless")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78 "AWS Certified Cloud Practitioner")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d "AWS Knowledge: Architecting")
 
