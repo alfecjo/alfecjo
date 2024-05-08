@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, desenvolvimento de software para desktop, mobile, programação reativa e imperativa. Uso Java, Angular @ngrx, Kotlin (Ktor, Quarkus ), HTML, JS, CSS, Typescript, AWS... Mecânica, eletroeletrônica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, cloud, desenvolvimento de software para desktop, mobile, programação reativa e imperativa. Uso Java, Angular @ngrx, Kotlin (Ktor, Quarkus ), HTML, JS, CSS, Typescript, AWS... Mecânica, eletroeletrônica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
 
 ### ☁️ aws cloud
 ### 🎓 Certificações
