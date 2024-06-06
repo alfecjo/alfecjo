@@ -33,6 +33,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Amazon EKS](https://images.credly.com/size/110x110/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png)](https://www.credly.com/earner/earned/badge/fd90f7d6-485a-4915-a382-3686d76c5d39 "AWS Knowledge: Amazon EKS")
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](https://www.credly.com/badges/717ac748-196e-4aa4-9632-01f6abae7813 "AWS Knowledge: Compute")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d "AWS Knowledge: Architecting")
+[![AWS Knowledge: Migration Foundations](https://images.credly.com/size/110x110/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png)](https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e "AWS Knowledge: Migration Foundations")
 
 #### Apaixonado por tecnologia:
    
