@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: Automação pela web, cloud, desenvolvimento de software para desktop, mobile, programação reativa e imperativa. Uso Java, Angular @ngrx, Kotlin (Ktor, Quarkus ), HTML, JS, CSS, Typescript, AWS... Mecânica, eletroeletrônica, programação industrial com  Microcontroladores da família ARM Cortex M. (Android Java-Native, C++, C, Kotlin-Native/Multiplataforma)!
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: AWS, Java, Angular @ngrx HTML/JS/CSS/SCSS/Typescript,...) Mecatrônica, Mecânica, Eletroeletrônica, Embarcado industrial,  Microcontroladores - ARM CortexM e ARM CortexA.
 
 ### 🎓 Certificações ☁️ aws cloud
 
@@ -42,10 +42,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
-☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico até engenheiro mecatrônico, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos.
+☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos..
 
 🔧 Áreas de Atuação:
-Desenvolvimento Web e Microcontroladores (especialmente família ARM-Cortex STM32f).
+Desenvolvimento Web e Microcontroladores (STM32f).
 Empreendedorismo, Audiovisual e Animais.
 
 ✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
