@@ -42,7 +42,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
-☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos eletromecânicos..
+☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente na segunda Pós-graduação Lato Sensu em Java e ancioso por uma oportunidade em alguma Federal para uma Stricto Sensu. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos..
 
 🔧 Áreas de Atuação:
 Desenvolvimento Web e Microcontroladores (STM32f).
