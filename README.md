@@ -35,9 +35,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/eba18772-5ecf-471b-b8af-dda79815b544/image.png)](https://www.credly.com/badges/717ac748-196e-4aa4-9632-01f6abae7813 "AWS Knowledge: Compute")
 [![AWS Knowledge: Architecting](https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png)](https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d "AWS Knowledge: Architecting")
 [![AWS Knowledge: Migration Foundations](https://images.credly.com/size/110x110/images/4163dc96-eec3-49c2-87b3-6a98172e160c/image.png)](https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e "AWS Knowledge: Migration Foundations")
-[![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)]([https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
-[![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)]([https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4 "AWS Knowledge: Amazon Braket")
-[![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)]([https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
+[![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/0c6f66be-4cd6-4d98-b132-a9a87dc6ecbe/image.png)](https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
+[![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4 "AWS Knowledge: Amazon Braket")
+[![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
 
 #### Apaixonado por tecnologia:
    
