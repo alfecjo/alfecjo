@@ -18,7 +18,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 #### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: AWS, Java, Angular @ngrx HTML/JS/CSS/SCSS/Typescript,...) Mecatrônica, Mecânica, Eletroeletrônica, µController ARM CortexM - STM32F767Zi (suporte a HTTP e HTTPS com lwIP e STM32CubeMX ou Keil).
 
-### 🎓 Certificações ☁️ aws cloud
+### 🎓 Certificações de conhecimento ☁️ aws cloud
 
 [![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b "AWS Educate Getting Started with Serverless")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/9b6d8643-c840-4057-89b2-5f4a280141f2 "AWS re/Start")
