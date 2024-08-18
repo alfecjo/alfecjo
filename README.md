@@ -65,6 +65,12 @@ Empreendedorismo, Audiovisual e Animais.
 
 🛰️ A evolução não foi apenas técnica, mas uma jornada repleta de desafios e conquistas. Este é o ponto da história em que as linguagens de programação floresceram em eficiência, a acessibilidade tornou-se a palavra de ordem, e a capacidade de processamento, armazenamento e comunicação atingiu novos patamares para chegar ao que vemos hoje.
 
+🌟 Evolução para a Computação Quântica 🌟
+
+À medida que continuamos a avançar na era digital, a computação quântica está emergindo como uma fronteira revolucionária na tecnologia. Diferente dos computadores tradicionais, que operam com bits que representam 0s e 1s, a computação quântica utiliza qubits, que podem estar em uma superposição de estados, permitindo a realização de cálculos exponencialmente mais complexos com uma eficiência incomparável. A atualidade da computação quântica está marcada por inovações significativas. Empresas e instituições de pesquisa estão desenvolvendo algoritmos e hardware quântico com o potencial de resolver problemas que seriam intratáveis para os computadores clássicos. Com sistemas quânticos emergentes, como o IBM Quantum, Google Quantum AI e os esforços da Amazon Braket (o qual possuo certificação de conhecimento), estamos apenas começando a explorar as possibilidades dessa tecnologia.
+
+Além disso, a computação quântica promete transformar indústrias inteiras, desde a criptografia até a simulação de moléculas para o desenvolvimento de novos medicamentos, oferecendo uma nova era de descobertas e capacidades computacionais. O que começou com microcomputadores básicos evoluiu para uma era em que a computação quântica está começando a redefinir os limites do que é possível. É um momento empolgante para testemunhar e participar dessa revolução tecnológica em curso.
+
 🏆 Não menos importante, foi a onda de desenvolvimento de software colaborativo na internet. Também comumente referida como "Open Source" (código aberto) ou "Software Livre". Essa abordagem envolve a disponibilização do código-fonte de um software para que a comunidade possa visualizá-lo, modificar, aprimorar e distribuir. 
 
 👀 Assim é como estamos hoje!
