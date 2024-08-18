@@ -53,7 +53,7 @@ Empreendedorismo, Audiovisual e Animais.
 
 ✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
 
-🔊 Junte-se a mim nesta página do GitHub, onde exploramos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
+🔊 Assim exploraremos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
 
 🕰️ Viajando no Tempo da Tecnologia: A Revolução dos Microcomputadores
 
