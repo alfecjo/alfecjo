@@ -48,7 +48,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente na segunda Pós-graduação Lato Sensu em Java e ancioso por uma oportunidade em alguma Federal para uma Stricto Sensu. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos..
 
 🔧 Áreas de Atuação:
-Desenvolvimento Web e Microcontroladores (STM32f).
+Desenvolvimento Web e Microcontroladores (STM32f767-zi Família Cortex-M7, arquitetura de processador 32 bits, conhecida por seu desempenho e eficiência energética. Projetado para aplicações que exigem processamento de alto desempenho e operações em tempo real).
 Empreendedorismo, Audiovisual e Animais.
 
 ✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
