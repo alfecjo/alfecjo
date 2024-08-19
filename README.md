@@ -28,6 +28,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/110x110/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](https://www.credly.com/badges/e9a4d5e3-9671-4465-8e49-d0960ad6d12c "AWS Educate Getting Started with Cloud Ops")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](https://www.credly.com/earner/earned/badge/64cdc956-0eb8-4349-89ff-2ef15844e15f "AWS Educate Getting Started with Networking")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78 "AWS Certified Cloud Practitioner")
+
+[![AWS Knowledge: Cloud Essentials](https://images.credly.com/size/110x110/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png)](https://www.credly.com/badges/410dd565-18ca-43ff-af09-71ae02398697 "AWS Knowledge: Cloud Essentials")
+
+
 [![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](https://www.credly.com/badges/c2d9d52a-19e6-4d5c-87bb-d523a42dec0c "AWS Knowledge: Serverless")
 [![AWS Knowledge: Events and Workflows](https://images.credly.com/size/110x110/images/65b806c9-c09d-4125-bfb0-8fc87f4699ac/image.png)](https://www.credly.com/earner/earned/badge/621c2e45-aed7-4cac-afae-f8737de3a694 "AWS Knowledge: Events and Workflows")
 [![AWS Knowledge: AWS for Games: Cloud Game Development](https://images.credly.com/size/110x110/images/1e1e332c-cbe5-4358-9491-748cc5c5d15f/image.png)](https://www.credly.com/earner/earned/badge/39633024-d150-4dc7-bbf5-7d560ac4d869 "AWS Knowledge: AWS for Games: Cloud Game Development")
