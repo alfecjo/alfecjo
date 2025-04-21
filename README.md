@@ -49,8 +49,32 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
 
 🔧 Áreas de Atuação:
-Desenvolvimento Web e Microcontroladores (STM32f767-zi Família Cortex-M7, arquitetura de processador 32 bits, conhecida por seu desempenho e eficiência energética. Projetado para aplicações que exigem processamento de alto desempenho e operações em tempo real).
-Empreendedorismo, Audiovisual e Animais.
+Desenvolvimento Web e Microcontroladores (STM32F767zi Família Cortex-M7 e recentemente, Pico w. O primeiro, projetado para aplicações que exigem processamento de alto desempenho e operações em tempo real, já o segundo é ideal para simulações e MVP).
+
+## STM32F767ZI
+
+- Núcleo ARM Cortex-M7 @ 216 MHz
+- 512 KB de RAM
+- 2 MB de Flash
+- FPU de precisão simples e dupla
+- Interface ST-LINK integrada para depuração
+- Periféricos: USB OTG, Ethernet, CAN, ADCs 12 bits, DAC, SPI, I2C, UART, timers avançados
+- Compatível com FreeRTOS e middleware da ST
+- Ideal para aplicações industriais e de tempo real
+
+---
+
+## Raspberry Pi Pico W
+
+- Núcleo ARM Cortex-M0+ dual-core @ 133 MHz
+- 264 KB de RAM
+- 2 MB de Flash QSPI
+- Wi-Fi embutido (chip CYW43439)
+- GPIOs versáteis com suporte a ADC, PWM, I2C, SPI, UART
+- Suporte a C/C++, MicroPython e CircuitPython
+- Interface USB para programação e comunicação serial
+- Ideal para projetos IoT, prototipagem e automação leve
+
 
 ✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
 
@@ -80,7 +104,7 @@ Além disso, a computação quântica promete transformar indústrias inteiras, 
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
 🌐 Compromisso:
-Dedico minha carreira ao desenvolvimento Fullstack, à docência e à redação técnica. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol de botão e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
+Foco em desenvolvimento Fullstack, hardware, prototipagem, à docência e à redação técnica. Amo animais. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol de botão e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
 
 🥇🎬 Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
 
