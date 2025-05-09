@@ -51,7 +51,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 --- 
 
-🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
+### 🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
 - Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
 🛠 Tecnologias: família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
@@ -65,7 +65,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-☕ Java Spring & Testes
+### ☕ Java Spring & Testes
 - Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
 🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket Assíncrona (full duplex), WebFlux (http - Síncrona/Assíncrona)
@@ -76,7 +76,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-🌐 Front-end com Angular
+### 🌐 Front-end com Angular
 - Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
 
 🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
@@ -88,7 +88,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-☁️ AWS: Arquitetura e Desenvolvimento
+### ☁️ AWS: Arquitetura e Desenvolvimento
 - Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
 
 🧱 Tecnologias: Lambda, S3, EC2, API Gateway, CloudFormation
@@ -101,7 +101,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-🔬 Computação Quântica
+### 🔬 Computação Quântica
 - Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
 
 ⚛️ Tecnologias: Amazon Braket, Qiskit
@@ -114,7 +114,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-📡 Redes e Telecomunicações
+### 📡 Redes e Telecomunicações
 - Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de desempenho e otimização de sistemas.
 
 📚 Formação: Pós-graduação em Engenharia de Redes (Inatel)
@@ -125,9 +125,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-
-
-🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
+### 🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
 
 🧰 Áreas de Interesse
 Fullstack Development
