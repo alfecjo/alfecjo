@@ -99,7 +99,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
-🔗 [![Project](https://img.shields.io/badge/AWS-Python-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-dev)
+🔗 [![Project](https://img.shields.io/badge/AWS-Python_&_Java-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-dev)
 🚧 **Em desenvolvimento**
 
 ---
