@@ -58,7 +58,7 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
 
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry-Pi-Pico-W-darkblue?style=for-the-badge)](https://github.com/alfecjo/raspberry)
+🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/raspberry)
 
 ---
 
