@@ -16,7 +16,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 - 📫 antonioalmeida@alunos.utfpr.edu.br
 -->
 
-#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: AWS, Java, Angular @ngrx HTML/JS/CSS/SCSS/Typescript,...) Mecatrônica, Mecânica, Eletroeletrônica, µController ARM CortexM - STM32F767Zi (suporte a HTTP e HTTPS com lwIP e STM32CubeMX ou Keil).
+#### 🔭 Eternamente, aperfeiçoando conhecimentos em tecnologia: AWS, Java, Angular @ngrx HTML/JS/CSS/SCSS/Typescript,...) Mecatrônica, Mecânica, Eletroeletrônica, µController ARM CortexM, Raspberry Pi, RTOS, C, C++.
 
 ### 🎓 Certificações de conhecimento ☁️ aws cloud
 
