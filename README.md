@@ -114,8 +114,7 @@ Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de
 
 
 
-✈️ 🗽 🧠 Sobre Mim
-Sou um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
+✈️ 🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
 
 🧰 Áreas de Interesse
 Fullstack Development
