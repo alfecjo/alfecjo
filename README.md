@@ -46,17 +46,18 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
-🔧 Sou apaixonado por desenvolvimento e tecnologia em suas mais diversas formas: da computação embarcada à computação em nuvem, do Java corporativo à computação quântica. Neste espaço, compartilho projetos, estudos e experimentos nos quais me envolvo com profundidade e entusiasmo.
+🔧 Desde sempre envolvido com desenvolvimento e tecnologia em suas mais diversas formas: da computação embarcada à computação em nuvem, do Java corporativo à computação quântica. Neste espaço, compartilho projetos, estudos e experimentos nos quais me envolvo com profundidade.
 
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
 
-🔌 Microcontroladores (STM32 & Raspberry Pi Pico W)
+🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
 Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
-🛠 Tecnologias: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython
+🛠 Tecnologias: Toda a família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-➡️ Ver repositórios embarcados
+[🔗 Ver Projetos STM32F767ZI](https://github.com/alfecjo/stm32f767zi)
+[🔗 Ver Projetos com Raspberry Pi Pico W](https://github.com/alfecjo/raspberry)
 
 ---
 
@@ -66,7 +67,7 @@ Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integra
 🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven
 📂 Aplicações: APIs, sistemas comerciais, controle de estoque e vendas
 
-➡️ Ver projetos Java
+[🔗 Ver Projetos Java Spring](https://github.com/alfecjo/java-spring)
 
 ---
 
@@ -76,7 +77,7 @@ Interfaces ricas e responsivas para web, integração com APIs, comunicação as
 🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
 📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
 
-➡️ Ver projetos Angular
+[🔗 Ver Projetos Angular](https://github.com/alfecjo/angular)
 
 ---
 
@@ -87,7 +88,7 @@ Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipa
 🔒 Segurança: IAM, KMS, Secrets Manager
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
-➡️ Ver repositórios AWS
+[🔗 Ver Projetos AWS](https://github.com/alfecjo/aws)
 
 ---
 
@@ -97,7 +98,7 @@ Início de jornada no universo da computação quântica com Amazon Braket e Qis
 ⚛️ Tecnologias: Amazon Braket, Qiskit
 📘 Certificação: Fundamentos de Computação Quântica AWS
 
-➡️ Ver projetos quânticos
+[🔗 Projetos com AWS Braket](https://github.com/alfecjo/aws-braket)
 
 ---
 
@@ -107,7 +108,7 @@ Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de
 📚 Formação: Pós-graduação em Engenharia de Redes (Inatel)
 🔧 Tecnologias: Análise de radioenlace, modelagem, cálculo de perdas
 
-➡️ Ver repositórios de redes
+[🔗 Projetos Telecom](https://github.com/alfecjo/telecom)
 
 ---
 
@@ -129,7 +130,7 @@ Inovação tecnológica
 
 Educação técnica e audiovisual
 
-🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude e... muito carinho com meus pets! 🐾
+🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude, cuidar da chácara e... muito carinho com meus pets! 🐾
 
 💡 Motivação:
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
