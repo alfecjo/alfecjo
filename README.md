@@ -68,7 +68,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### ☕ Java Spring & Testes
 - Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
-🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket Assíncrona (full duplex), WebFlux (http - Síncrona/Assíncrona)
+🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket Assíncrona (full duplex), WebFlux (https - Síncrona/Assíncrona)
 
 📂 Aplicações: APIs, sistemas comerciais, Web 
 
