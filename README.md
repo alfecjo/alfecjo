@@ -41,8 +41,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
 
 #### Apaixonado por tecnologia:
-   
-    https://alfecjo.github.io/
+   [![Project](https://img.shields.io/badge/Portifólio-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
