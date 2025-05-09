@@ -53,6 +53,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
 🛠 Tecnologias: Toda a família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
+
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
@@ -66,9 +67,10 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
 🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven
+
 📂 Aplicações: APIs, sistemas comerciais, controle de estoque e vendas
 
-[🔗 Ver Projetos Java Spring](https://github.com/alfecjo/java-spring)
+🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring)
 
 ---
 
