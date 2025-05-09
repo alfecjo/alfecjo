@@ -50,9 +50,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
 
 🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
-Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
+- Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
-🛠 Tecnologias: Toda a família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
+🛠 Tecnologias: família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
 
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
@@ -66,7 +66,7 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 ☕ Java Spring & Testes
 Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
-🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket, WebFlux
+🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket Assíncrona (full duplex), WebFlux (http - Síncrona/Assíncrona)
 
 📂 Aplicações: APIs, sistemas comerciais, Web 
 
