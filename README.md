@@ -58,7 +58,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
+🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32-dev)
 🚧 **Em desenvolvimento**
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
