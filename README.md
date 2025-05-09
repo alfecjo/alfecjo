@@ -66,9 +66,9 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 ☕ Java Spring & Testes
 Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
-🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven
+🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket, WebFlux
 
-📂 Aplicações: APIs, sistemas comerciais, controle de estoque e vendas
+📂 Aplicações: APIs, sistemas comerciais, páginas Web 
 
 🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring)
 
