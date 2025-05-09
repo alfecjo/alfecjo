@@ -56,7 +56,8 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 🛠 Tecnologias: Toda a família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-[🔗 Ver Projetos STM32F767ZI](https://github.com/alfecjo/stm32f767zi)
+[![🔗 Ver Projetos STM32F767ZI](https://img.shields.io/badge/Project_009-led_toggle-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
+
 
 [🔗 Ver Projetos com Raspberry Pi Pico W](https://github.com/alfecjo/raspberry)
 
@@ -97,7 +98,8 @@ Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipa
 Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
 
 ⚛️ Tecnologias: Amazon Braket, Qiskit
-📘 Certificação: Fundamentos de Computação Quântica AWS
+📘 Python SDK (braket-sdk) para definir circuitos e rodar algoritmos
+✈️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
 
 [🔗 Projetos com AWS Braket](https://github.com/alfecjo/aws-braket)
 
@@ -115,7 +117,7 @@ Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de
 
 
 
-✈️ 🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
+🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
 
 🧰 Áreas de Interesse
 Fullstack Development
