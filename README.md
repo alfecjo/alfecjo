@@ -56,7 +56,7 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 🛠 Tecnologias: Toda a família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-[![🔗 Ver Projetos STM32F767ZI](https://img.shields.io/badge/STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
+[![Ver Projetos STM32F767ZI](https://img.shields.io/badge/STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
 
 
 [🔗 Ver Projetos com Raspberry Pi Pico W](https://github.com/alfecjo/raspberry)
