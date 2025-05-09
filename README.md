@@ -68,7 +68,7 @@ Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integra
 
 🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket, WebFlux
 
-📂 Aplicações: APIs, sistemas comerciais, páginas Web 
+📂 Aplicações: APIs, sistemas comerciais, Web 
 
 🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring)
 
@@ -78,9 +78,11 @@ Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integra
 Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
 
 🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
+
 📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
 
-[🔗 Ver Projetos Angular](https://github.com/alfecjo/angular)
+
+🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/angular)
 
 ---
 
@@ -88,10 +90,12 @@ Interfaces ricas e responsivas para web, integração com APIs, comunicação as
 Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
 
 🧱 Tecnologias: Lambda, S3, EC2, API Gateway, CloudFormation
+
 🔒 Segurança: IAM, KMS, Secrets Manager
+
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
-[🔗 Ver Projetos AWS](https://github.com/alfecjo/aws)
+🔗 [![Project](https://img.shields.io/badge/AWS-Braket-red?style=for-the-badge)](https://github.com/alfecjo/aws)
 
 ---
 
