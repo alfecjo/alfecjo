@@ -72,7 +72,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📂 Aplicações: APIs, sistemas comerciais, Web 
 
-🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring)
+🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring-testes)
 🚧 **Em desenvolvimento**
 
 ---
