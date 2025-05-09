@@ -59,7 +59,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32f767zi)
-
+🚧 **Em desenvolvimento**
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
@@ -73,6 +73,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 📂 Aplicações: APIs, sistemas comerciais, Web 
 
 🔗 [![Project](https://img.shields.io/badge/Java-Spring-blue?style=for-the-badge)](https://github.com/alfecjo/java-spring)
+🚧 **Em desenvolvimento**
 
 ---
 
@@ -85,6 +86,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/angular)
+🚧 **Em desenvolvimento**
 
 ---
 
@@ -98,6 +100,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
 🔗 [![Project](https://img.shields.io/badge/AWS-Python-yellow?style=for-the-badge)](https://github.com/alfecjo/aws)
+🚧 **Em desenvolvimento**
 
 ---
 
@@ -111,6 +114,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ⚛️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
 
 🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
+🚧 **Em desenvolvimento**
 
 ---
 
@@ -122,6 +126,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 🔧 Tecnologias: Análise de radioenlace, modelagem, cálculo de perdas
 
 🔗 [![Project](https://img.shields.io/badge/Telecom-Redes-success?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
+🚧 **Em desenvolvimento**
 
 ---
 
@@ -138,10 +143,12 @@ Fullstack Development
 
 🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude, cuidar da chácara e... muito carinho com meus pets! 🐾
 
-💡 Motivação:
+### 💡 Motivação:
 - Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
-🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
+### 🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
+
+---
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
 
