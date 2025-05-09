@@ -106,9 +106,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ⚛️ Tecnologias: Amazon Braket, Qiskit
 
-📘 Python SDK (braket-sdk) para definir circuitos e rodar algoritmos
+🐍 Python SDK (braket-sdk) para definir circuitos e rodar algoritmos
 
-✈️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
+⚛️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
 
 🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
 
