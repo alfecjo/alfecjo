@@ -95,7 +95,7 @@ Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipa
 
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
-🔗 [![Project](https://img.shields.io/badge/AWS-Braket-red?style=for-the-badge)](https://github.com/alfecjo/aws)
+🔗 [![Project](https://img.shields.io/badge/AWS-Python-yellow?style=for-the-badge)](https://github.com/alfecjo/aws)
 
 ---
 
@@ -103,10 +103,12 @@ Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipa
 Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
 
 ⚛️ Tecnologias: Amazon Braket, Qiskit
+
 📘 Python SDK (braket-sdk) para definir circuitos e rodar algoritmos
+
 ✈️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
 
-[🔗 Projetos com AWS Braket](https://github.com/alfecjo/aws-braket)
+🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
 
 ---
 
@@ -114,9 +116,10 @@ Início de jornada no universo da computação quântica com Amazon Braket e Qis
 Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de desempenho e otimização de sistemas.
 
 📚 Formação: Pós-graduação em Engenharia de Redes (Inatel)
+
 🔧 Tecnologias: Análise de radioenlace, modelagem, cálculo de perdas
 
-[🔗 Projetos Telecom](https://github.com/alfecjo/telecom)
+🔗 [![Project](https://img.shields.io/badge/Telecom-Redes-success?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
 
 ---
 
