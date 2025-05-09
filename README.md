@@ -85,7 +85,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
 
 
-🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/angular)
+🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/angular-dev)
 🚧 **Em desenvolvimento**
 
 ---
