@@ -49,6 +49,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
 
+--- 
+
 🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
 - Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
@@ -64,7 +66,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ---
 
 ☕ Java Spring & Testes
-Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
+- Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
 🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven, WebSocket Assíncrona (full duplex), WebFlux (http - Síncrona/Assíncrona)
 
@@ -75,7 +77,7 @@ Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integra
 ---
 
 🌐 Front-end com Angular
-Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
+- Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
 
 🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
 
@@ -87,7 +89,7 @@ Interfaces ricas e responsivas para web, integração com APIs, comunicação as
 ---
 
 ☁️ AWS: Arquitetura e Desenvolvimento
-Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
+- Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
 
 🧱 Tecnologias: Lambda, S3, EC2, API Gateway, CloudFormation
 
@@ -100,7 +102,7 @@ Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipa
 ---
 
 🔬 Computação Quântica
-Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
+- Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
 
 ⚛️ Tecnologias: Amazon Braket, Qiskit
 
@@ -113,7 +115,7 @@ Início de jornada no universo da computação quântica com Amazon Braket e Qis
 ---
 
 📡 Redes e Telecomunicações
-Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de desempenho e otimização de sistemas.
+- Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de desempenho e otimização de sistemas.
 
 📚 Formação: Pós-graduação em Engenharia de Redes (Inatel)
 
@@ -130,20 +132,16 @@ Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de
 🧰 Áreas de Interesse
 Fullstack Development
 
-Sistemas embarcados
-
-Arquitetura AWS
-
-Computação Quântica
-
-Inovação tecnológica
-
-Educação técnica e audiovisual
+- **Sistemas embarcados**
+- **Arquitetura AWS**
+- **Computação Quântica**
+- **Inovação tecnológica**
+- **Educação técnica e audiovisual**
 
 🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude, cuidar da chácara e... muito carinho com meus pets! 🐾
 
 💡 Motivação:
-Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
+- Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
 🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
 
