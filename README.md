@@ -57,6 +57,7 @@ Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS,
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
 [🔗 Ver Projetos STM32F767ZI](https://github.com/alfecjo/stm32f767zi)
+
 [🔗 Ver Projetos com Raspberry Pi Pico W](https://github.com/alfecjo/raspberry)
 
 ---
