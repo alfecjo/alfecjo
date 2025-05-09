@@ -1,5 +1,5 @@
 ### Olá, sou Antonio Almeida!
-####    Sejam todos, muito bem vindos!👋
+####    Sejam todos, muito bem vindos ao meu Universo Tecnológico!!!👋
 
 <!--
 **alfecjo/alfecjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,67 +46,95 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
 
+🔧 Sou apaixonado por desenvolvimento e tecnologia em suas mais diversas formas: da computação embarcada à computação em nuvem, do Java corporativo à computação quântica. Neste espaço, compartilho projetos, estudos e experimentos nos quais me envolvo com profundidade e entusiasmo.
+
 ☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
 
-🔧 Áreas de Atuação:
-Desenvolvimento Web e Microcontroladores (STM32F767zi Família Cortex-M7 e recentemente, Pico w. O primeiro, projetado para aplicações que exigem processamento de alto desempenho e operações em tempo real, já o segundo é ideal para simulações e MVP).
+🔌 Microcontroladores (STM32 & Raspberry Pi Pico W)
+Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
 
-## STM32F767ZI
+🛠 Tecnologias: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython
+📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-- Núcleo ARM Cortex-M7 @ 216 MHz
-- 512 KB de RAM
-- 2 MB de Flash
-- FPU de precisão simples e dupla
-- Interface ST-LINK integrada para depuração
-- Periféricos: USB OTG, Ethernet, CAN, ADCs 12 bits, DAC, SPI, I2C, UART, timers avançados
-- Compatível com FreeRTOS e middleware da ST
-- Ideal para aplicações industriais e de tempo real
+➡️ Ver repositórios embarcados
 
 ---
 
-## Raspberry Pi Pico W
+☕ Java Spring & Testes
+Desenvolvimento backend com foco em aplicações robustas, APIs RESTful, integração com bancos de dados, segurança, testes unitários e integração contínua.
 
-- Núcleo ARM Cortex-M0+ dual-core @ 133 MHz
-- 264 KB de RAM
-- 2 MB de Flash QSPI
-- Wi-Fi embutido (chip CYW43439)
-- GPIOs versáteis com suporte a ADC, PWM, I2C, SPI, UART
-- Suporte a C/C++, MicroPython e CircuitPython
-- Interface USB para programação e comunicação serial
-- Ideal para projetos IoT, prototipagem e automação leve
+🧪 Tecnologias: Spring Boot, JPA, JUnit, Mockito, Maven
+📂 Aplicações: APIs, sistemas comerciais, controle de estoque e vendas
+
+➡️ Ver projetos Java
+
+---
+
+🌐 Front-end com Angular
+Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
+
+🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
+📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
+
+➡️ Ver projetos Angular
+
+---
+
+☁️ AWS: Arquitetura e Desenvolvimento
+Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
+
+🧱 Tecnologias: Lambda, S3, EC2, API Gateway, CloudFormation
+🔒 Segurança: IAM, KMS, Secrets Manager
+🧠 Explorando: Amazon Braket (Computação Quântica)
+
+➡️ Ver repositórios AWS
+
+---
+
+🔬 Computação Quântica
+Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
+
+⚛️ Tecnologias: Amazon Braket, Qiskit
+📘 Certificação: Fundamentos de Computação Quântica AWS
+
+➡️ Ver projetos quânticos
+
+---
+
+📡 Redes e Telecomunicações
+Aplicações envolvendo enlaces de comunicação, projetos de redes, análise de desempenho e otimização de sistemas.
+
+📚 Formação: Pós-graduação em Engenharia de Redes (Inatel)
+🔧 Tecnologias: Análise de radioenlace, modelagem, cálculo de perdas
+
+➡️ Ver repositórios de redes
+
+---
 
 
-✈️🗽 Vamos viajar juntos pela linha do tempo da tecnologia, apreciando o passado e moldando o futuro!
 
-🔊 Assim exploraremos não apenas códigos e projetos, mas também celebramos a incrível jornada que nos trouxe até aqui. Da simplicidade inicial ao complexo ecossistema tecnológico atual, cada linha de código reflete a história de uma evolução notável.
+✈️ 🗽 🧠 Sobre Mim
+Sou um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java e Telecomunicações. Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
 
-🕰️ Viajando no Tempo da Tecnologia: A Revolução dos Microcomputadores
+🧰 Áreas de Interesse
+Fullstack Development
 
-💻 Na distante década de 80, os microcomputadores eram como relíquias tecnológicas, caros, lentos e ofereciam recursos limitados. Um destaque nesse cenário foi o PC xt 8086, primeiro computador no Brasil que conseguiu acessar diretamente a NSFnet, a rede acadêmica da National Science Foundation (NSF) que foi precursora da internet. Isso num marco que remete a uma época em que a computação pessoal estava engatinhando. Atualmente, um STM32F767ZI development board, fabricado pela STMicroelectronics, possui imensurável superioridade em capacidade de recursos, um centésimo do tamanho e peso em relação ao primeiro PC lançado pela IBM em 12 de Agosto de 1981 com a denominação comercial IBM 5150.
+Sistemas embarcados
 
-💾 Ao longo dos anos, a tecnologia deu saltos gigantescos. Inicialmente, testemunhamos computadores com poder de processamento superior, mas com memória e armazenamento limitados. As linguagens de programação tornavam-se mais eficientes e acessíveis, enquanto o hardware e as telecomunicações lutavam para acompanhar essa revolução digital.
+Arquitetura AWS
 
-🌎 Foi apenas em meados de 2010 que testemunhamos a harmonia entre software e hardware. Nesse ponto, o resultado de intensa pesquisa e esforços conjuntos possibilitou uma sinergia sem precedentes na história da computação.
+Computação Quântica
 
-🛰️ A evolução não foi apenas técnica, mas uma jornada repleta de desafios e conquistas. Este é o ponto da história em que as linguagens de programação floresceram em eficiência, a acessibilidade tornou-se a palavra de ordem, e a capacidade de processamento, armazenamento e comunicação atingiu novos patamares para chegar ao que vemos hoje.
+Inovação tecnológica
 
-🌟 Evolução para a Computação Quântica 🌟
+Educação técnica e audiovisual
 
-À medida que continuamos a avançar na era digital, a computação quântica está emergindo como uma fronteira revolucionária na tecnologia. Diferente dos computadores tradicionais, que operam com bits que representam 0s e 1s, a computação quântica utiliza qubits, que podem estar em uma superposição de estados, permitindo a realização de cálculos exponencialmente mais complexos com uma eficiência incomparável. A atualidade da computação quântica está marcada por inovações significativas. Empresas e instituições de pesquisa estão desenvolvendo algoritmos e hardware quântico com o potencial de resolver problemas que seriam intratáveis para os computadores clássicos. Com sistemas quânticos emergentes, como o IBM Quantum, Google Quantum AI e os esforços da Amazon Braket (o qual possuo certificação de conhecimento), estamos apenas começando a explorar as possibilidades dessa tecnologia.
-
-Além disso, a computação quântica promete transformar indústrias inteiras, desde a criptografia até a simulação de moléculas para o desenvolvimento de novos medicamentos, oferecendo uma nova era de descobertas e capacidades computacionais. O que começou com microcomputadores básicos evoluiu para uma era em que a computação quântica está começando a redefinir os limites do que é possível. É um momento empolgante para testemunhar e participar dessa revolução tecnológica em curso.
-
-🏆 Não menos importante, foi a onda de desenvolvimento de software colaborativo na internet. Também comumente referida como "Open Source" (código aberto) ou "Software Livre". Essa abordagem envolve a disponibilização do código-fonte de um software para que a comunidade possa visualizá-lo, modificar, aprimorar e distribuir. 
-
-👀 Assim é como estamos hoje!
+🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude e... muito carinho com meus pets! 🐾
 
 💡 Motivação:
 Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
-🌐 Compromisso:
-Foco em desenvolvimento Fullstack, hardware, prototipagem, à docência e à redação técnica. Amo animais. Além disso, sou um aficionado por empreendedorismo e acredito no poder do audiovisual. Nos meus momentos de descontração, encontro alegria em assistir a filmes de diversos gêneros, jogar futebol de botão e até mesmo brincar com bolinhas de gude. No entanto, meu maior prazer é dedicar tempo aos meus adoráveis animais, que não apenas me animam, mas também são uma fonte constante de inspiração e conhecimento.
-
-🥇🎬 Vamos explorar juntos as fronteiras da mecatrônica e da inovação! 🤖✨
+🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
 
@@ -120,27 +148,3 @@ Foco em desenvolvimento Fullstack, hardware, prototipagem, à docência e à red
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/search/top/?q=Antonio%20Almeida)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511934130986&text=Oi%20Antonio)
 [![dockerhub](https://img.shields.io/badge/DockerHub-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/alfecjo)
-
-Vocabulário Técnico Simplificado:
-1. Mecatrônica:
-Definição: Uma área que integra e que combina conhecimentos de mecânica, eletrônica/elétrica e informática para criar
-sistemas e produtos automatizados.
-
-3. Desenvolvimento de Software:
-Definição: Criar programas de computador que permitem que dispositivos ou sistemas realizem tarefas específicas.
-
-4. Projetos Eletromecânicos:
-Definição: Desenvolvimento de sistemas que integram componentes mecânicos e eletrônicos para realizar funções específicas.
-
-5. ARM-Cortex STM32f7:
-Definição: Uma família de microcontroladores utilizada para controlar dispositivos eletrônicos.
-É como se fosse o cérebro de muitos aparelhos inteligentes contemporâneos, têm tamanho e recursos de processamento e memória
-reduzidos em relação aos computadores atuais. Entretanto, podem ser programados ou até mesmo receber
-instruções em tempo real pela internet e são a base das tecnologias do futuro.
-
-7. Fullstack:
-Definição: Uma pessoa que trabalha tanto na parte do servidor (back-end) quanto na parte do cliente (front-end) em
-desenvolvimento web.
-
-8. Fronteiras da Mecatrônica:
-Definição: Exploração dos limites e possibilidades na integração de mecânica, eletrônica e informática.
