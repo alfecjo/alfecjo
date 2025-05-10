@@ -40,7 +40,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/cb9ef1ba-f010-4a39-881b-65dce3e5df68/image.png)](https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4 "AWS Knowledge: Amazon Braket")
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png)](https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
 
-#### Apaixonado por tecnologia:
+#### Vivendo de tecnologia:
    [![Project](https://img.shields.io/badge/Minha_Trajetória-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
