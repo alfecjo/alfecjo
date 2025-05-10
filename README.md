@@ -47,7 +47,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🔧 Desde sempre envolvido com desenvolvimento e tecnologia em suas mais diversas formas: da computação embarcada à computação em nuvem, do Java corporativo à computação quântica. Neste espaço, compartilho projetos, estudos e experimentos nos quais me envolvo com profundidade.
 
-☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software e projetos Mecatrônicos e Eletromecânicos.
+☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software envolvendo projetos Mecatrônicos e Eletromecânicos.
 
 --- 
 
@@ -58,8 +58,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32-dev)
-🚧 **Em desenvolvimento**
+🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32-dev) - 🚧 **Em desenvolvimento**
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
