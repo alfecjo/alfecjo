@@ -132,12 +132,13 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### 🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java (concluída) e Telecomunicações (em andamento). Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
 
 🧰 Áreas de Interesse
-Fullstack Development
-
-- **Sistemas embarcados**
+- **Fullstack Development (Angular/Java/Python/AWS)**
+- **Automation, Mecatronics**
+- **Sistemas embarcados (µController ST/STM32F767ZI/RP2040/RP2350)**
 - **Arquitetura AWS**
-- **Computação Quântica**
+- **Computação Quântica (aprendiz)**
 - **Inovação tecnológica**
+- **Telecom**
 - **Educação técnica e audiovisual**
 
 🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude, cuidar da chácara e... muito carinho com meus pets! 🐾
