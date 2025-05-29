@@ -67,8 +67,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32-dev) - 🚧 **Em desenvolvimento**
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
+🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W-darkblue?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 
+<!--https://github.com/alfecjo/picodevfirmware-->
 ---
 
 ### ☕ Java Spring & Testes
