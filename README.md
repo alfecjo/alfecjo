@@ -132,7 +132,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🔧 Tecnologias: Análise de radioenlace, modelagem, cálculo de perdas
 
-🔗 [![Project](https://img.shields.io/badge/Telecom-Redes-success?style=for-the-badge)](https://github.com/alfecjo/redes-telecom)
+🔗 [![Project](https://img.shields.io/badge/Telecom-Redes-success?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
 
 ---
