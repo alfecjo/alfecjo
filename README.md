@@ -65,7 +65,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/stm32-dev) - 🚧 **Em desenvolvimento**
+🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/manutencao) - 🚧 **Em desenvolvimento**
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
@@ -92,7 +92,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
 
 
-🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/angular-dev)
+🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
 
 ---
@@ -106,7 +106,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🧠 Explorando: Amazon Braket (Computação Quântica)
 
-🔗 [![Project](https://img.shields.io/badge/AWS-Python_&_Java-yellow?style=for-the-badge)](https://github.com/alfecjo/aws-dev)
+🔗 [![Project](https://img.shields.io/badge/AWS-Python_&_Java-yellow?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
 
 ---
@@ -120,7 +120,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ⚛️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
 
-🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/aws-braket)
+🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
 
 ---
