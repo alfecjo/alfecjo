@@ -49,7 +49,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 [![Cisco Knowledge: C++ Essentials 1](https://images.credly.com/size/90x90/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png)](https://www.credly.com/badges/5c80d19b-ba69-4bd1-b03a-36ff4265b167 "Cisco Knowledge: C++ Essentials 1")
 
-#### Vivendo de tecnologia:
+#### Sempre Aperfeiçoando Habilidades:
    [![Project](https://img.shields.io/badge/Minha_Trajetória-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
 
 🚀 Explorando o Universo do desenvolvimento de aplicações para os mais variados dispositivos atuais!
