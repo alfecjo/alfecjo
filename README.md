@@ -48,6 +48,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![Cisco Knowledge: JavaScript Essentials 2](https://images.credly.com/size/90x90/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png)](https://www.credly.com/earner/earned/badge/20395e2d-ee4b-4601-91fc-e9c2078a218c "Cisco Knowledge: JavaScript Essentials 2")
 
 [![Cisco Knowledge: C++ Essentials 1](https://images.credly.com/size/90x90/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png)](https://www.credly.com/badges/5c80d19b-ba69-4bd1-b03a-36ff4265b167 "Cisco Knowledge: C++ Essentials 1")
+[![Cisco Knowledge: C++ Essentials 2](https://images.credly.com/size/680x680/images/f1f94d14-e573-4013-9386-62d417d5a3fb/image.png)](https://www.credly.com/badges/e7223a93-bdb6-48fb-bc63-a38e78cf513b "Cisco Knowledge: C++ Essentials 2")
 
 #### Sempre Aperfeiçoando Habilidades:
    [![Project](https://img.shields.io/badge/Minha_Trajetória-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
