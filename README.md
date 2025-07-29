@@ -85,7 +85,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📚 Iterators and Utilities
 
-🔗 [![Project](https://img.shields.io/badge/Project_C_+_+-STL-yellow?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
+🔗 [![Project](https://img.shields.io/badge/Project_C_++-STL-yellow?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
 
 ---
 
