@@ -61,12 +61,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 --- 
 
-### 🔌 Microcontroladores & Dispositivos IoT
-- Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, integrações com sensores e atuadores.
+### 🔌 Microcontrollers & IoT Devices
+- Firmware development for real-time and IoT applications using FreeRTOS, C/C++, and integration with sensors and actuators.
 
-🛠 Tecnologias: Raspberry Pi Pico W, FreeRTOS, C e C++
+🛠 **Technologies:** Raspberry Pi Pico W, FreeRTOS, C, C++
 
-📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
+📡 **Applications:** Automation, sensor systems, industrial interfaces, MVPs
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
