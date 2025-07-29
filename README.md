@@ -74,7 +74,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-### C++ Advanced Projects
+### 📚 C++ Advanced Projects
 - These projects are structured to reflect not only my learning journey but also my practical skills in modern C++ development..
 
 🧱 Templates
