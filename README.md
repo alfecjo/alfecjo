@@ -100,17 +100,18 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-### ☁️ AWS: Arquitetura e Desenvolvimento
-- Projetos que exploram arquitetura de sistemas escaláveis na nuvem. Da prototipagem com Lambda e DynamoDB ao uso de EC2, API Gateway, IAM, CloudWatch e S3.
+### C++ Advanced Projects
+- These projects are structured to reflect not only my learning journey but also my practical skills in modern C++ development..
 
-🧱 Tecnologias: Lambda, S3, EC2, API Gateway, CloudFormation
+🧱 Templates
 
-🔒 Segurança: IAM, KMS, Secrets Manager
+🔒 Standard Template Library (STL)
 
-🧠 Explorando: Amazon Braket (Computação Quântica)
+🧠 STL Algorithms
 
-🔗 [![Project](https://img.shields.io/badge/AWS-Python_&_Java-yellow?style=for-the-badge)](https://github.com/alfecjo/manutencao)
-🚧 **Em desenvolvimento**
+📚 Iterators and Utilities
+
+🔗 [![Project](https://img.shields.io/badge/C_plus_plus_&_STL-yellow?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
 
 ---
 
