@@ -61,14 +61,12 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 --- 
 
-### 🔌 Microcontroladores & Dispositivos IoT(STM32 & Raspberry Pi)
-- Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, MicroPython e integrações com sensores e atuadores.
+### 🔌 Microcontroladores & Dispositivos IoT
+- Desenvolvimento de firmware para aplicações em tempo real e IoT, com FreeRTOS, C/C++, integrações com sensores e atuadores.
 
-🛠 Tecnologias: família STM32, em especial: STM32F767ZI, Raspberry Pi Pico W, FreeRTOS, MicroPython C e C++
+🛠 Tecnologias: Raspberry Pi Pico W, FreeRTOS, C e C++
 
 📡 Aplicações: Automação, sensores, interfaces industriais, MVPs
-
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-STM32F767ZI-darkblue?style=for-the-badge)](https://github.com/alfecjo/manutencao) - 🚧 **Em desenvolvimento**
 
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
@@ -112,20 +110,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/manutencao)
-🚧 **Em desenvolvimento**
-
----
-
-### 🔬 Computação Quântica
-- Início de jornada no universo da computação quântica com Amazon Braket e Qiskit, voltado a simulações e fundamentos de qubits, portas lógicas e algoritmos quânticos.
-
-⚛️ Tecnologias: Amazon Braket, Qiskit
-
-🐍 Python SDK (braket-sdk) para definir circuitos e rodar algoritmos
-
-⚛️ Simuladores clássicos e hardwares reais (D-Wave, IonQ, Rigetti)
-
-🔗 [![Project](https://img.shields.io/badge/AWS-Braket-purple?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
 
 ---
