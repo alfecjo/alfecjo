@@ -73,6 +73,22 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
 <!--https://github.com/alfecjo/picodevfirmware-->
+
+---
+
+### C++ Advanced Projects
+- These projects are structured to reflect not only my learning journey but also my practical skills in modern C++ development..
+
+🧱 Templates
+
+🔒 Standard Template Library (STL)
+
+🧠 STL Algorithms
+
+📚 Iterators and Utilities
+
+🔗 [![Project](https://img.shields.io/badge/C_plus_plus-STL-yellow?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
+
 ---
 
 ### ☕ Java Spring & Testes
@@ -97,21 +113,6 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/manutencao)
 🚧 **Em desenvolvimento**
-
----
-
-### C++ Advanced Projects
-- These projects are structured to reflect not only my learning journey but also my practical skills in modern C++ development..
-
-🧱 Templates
-
-🔒 Standard Template Library (STL)
-
-🧠 STL Algorithms
-
-📚 Iterators and Utilities
-
-🔗 [![Project](https://img.shields.io/badge/C_plus_plus-STL-yellow?style=for-the-badge)](https://github.com/alfecjo/Cplus_plus_Advanced/tree/main)
 
 ---
 
