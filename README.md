@@ -68,7 +68,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 📡 **Applications:** Automation, sensor systems, industrial interfaces, MVPs
 
-🔗 [![Ver Projetos](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
+🔗 [![Project](https://img.shields.io/badge/Projeto-Raspberry_Pi_Pico_W_(BitDogLab)-darkblue?style=for-the-badge)](https://github.com/alfecjo/picodevfirmware)
 
 <!--https://github.com/alfecjo/picodevfirmware-->
 
