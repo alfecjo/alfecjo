@@ -20,11 +20,11 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### 🎓 ☁️ ...
 
-[![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b "AWS Educate Getting Started with Serverless")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png)](https://www.credly.com/badges/9b6d8643-c840-4057-89b2-5f4a280141f2 "AWS re/Start")
-[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](https://www.credly.com/badges/e14ef976-f611-435e-9ffa-e95db7768b43 "AWS Educate Introduction to Cloud 101")
+[![AWS Educate Getting Started with Serverless](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b "AWS Educate Getting Started with Serverless")
 [![AWS Educate Getting Started with Databases](https://images.credly.com/size/110x110/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](https://www.credly.com/badges/4b85ca74-95cf-446c-808d-ba9244108fe3 "AWS Educate Getting Started with Databases")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](https://www.credly.com/badges/7ca7bb54-b1bf-46b9-b103-586511496613 "AWS Educate Getting Started with Storage")
+[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](https://www.credly.com/badges/e14ef976-f611-435e-9ffa-e95db7768b43 "AWS Educate Introduction to Cloud 101")
 [![AWS Educate Getting Started with Cloud Ops](https://images.credly.com/size/110x110/images/01c3b0d4-a225-483b-a762-460473658c1a/image.png)](https://www.credly.com/badges/e9a4d5e3-9671-4465-8e49-d0960ad6d12c "AWS Educate Getting Started with Cloud Ops")
 [![AWS Educate Getting Started with Networking](https://images.credly.com/size/110x110/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png)](https://www.credly.com/earner/earned/badge/64cdc956-0eb8-4349-89ff-2ef15844e15f "AWS Educate Getting Started with Networking")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78 "AWS Certified Cloud Practitioner")
