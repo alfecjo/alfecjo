@@ -152,6 +152,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### 🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
 
+## ✅ Atualmente estou trabalhando nesse projeto:
+
 [![Assista ao vídeo](https://img.youtube.com/vi/rmD16CK9Hl4/maxresdefault.jpg)](https://youtu.be/rmD16CK9Hl4)
 
 ---
