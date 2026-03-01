@@ -125,17 +125,24 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-### 🗽 🧠 Um profissional multidisciplinar com formação em Engenharia e Pós-Graduação em Java (concluída) e Telecomunicações (em andamento). Tenho como pilares a curiosidade, a prática e o compromisso com a excelência técnica.
+### 🗽 🧠 Visão Estratégica
 
-🧰 Áreas de Interesse
-- **Fullstack Development (Angular/Java/Python/AWS and so on...)**
-- **Automation, Mecatronics**
-- **Sistemas embarcados (µController ST/STM32F767ZI/RP2040/RP2350)**
-- **Arquitetura AWS**
-- **Computação Quântica (aprendiz)**
-- **Inovação tecnológica**
-- **Telecom**
-- **Educação técnica e audiovisual**
+Atuo na convergência entre o bit e o átomo. Meu foco é construir e integrar sistemas de **alta performance**, **hardware resiliente** e **comunicações full-duplex**, garantindo que o código e a infraestrutura física operem com precisão e segurança absoluta.
+
+---
+
+### 🧰 Domínio Técnico & Áreas de Atuação
+
+*   **Arquitetura Fullstack:** Desenvolvimento robusto com [Java](https://www.oracle.com), Python e Angular, focado em sistemas escaláveis.
+*   **Sistemas Embarcados & IoT:** Engenharia de baixo nível e firmware em microcontroladores de ponta ([STM32F7](https://www.st.com), RP2040, RP2350, nRF52840, nRF54l15).
+*   **Cybersecurity em IoT:** Implementação de *Security by Design*, proteção de firmware e criptografia em nível de hardware para defesa de ativos na ponta (Edge).
+*   **Cloud & Infraestrutura:** Design de soluções resilientes em [AWS (Amazon Web Services)](https://aws.amazon.com).
+*   **Telecom & Telecomunicações:** Especialista em protocolos de rede, transmissão de dados e comunicações de baixa latência.
+*   **Inovação e Fronteira:** Explorando o potencial da **Computação Quântica** e produzindo conteúdo especializado em **Educação Técnica e Audiovisual**.
+
+> *Unindo o rigor da engenharia à agilidade do desenvolvimento moderno para solucionar problemas complexos.*
+
+---
 
 🎥 No tempo livre: filmes, futebol de botão, bolinhas de gude, cuidar da chácara e... muito carinho com meus pets! 🐾
 
