@@ -56,14 +56,14 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 🔧 Desde sempre envolvido com desenvolvimento e tecnologia em suas mais diversas formas: da computação embarcada à computação em nuvem, do Java corporativo à computação quântica. Neste espaço, compartilho projetos, estudos e experimentos nos quais me envolvo com profundidade.
 
-☕ Um prático, entusiasta, intenso e curioso, sempre desconfiado em como as coisas funcionam. Daí minha paixão por Mecânica, Eletroeletrônica/Elétrica e Informática. Com uma formação sólida que abrange desde técnico, tecnólogo e engenheiro, todos em Mecatrônica Industrial, atualmente e de forma concomitante, na segunda Pós-graduação Lato Sensu em Java e a primeira pelo Instituto Nacional de Telecomunicações - Inatel, Pós-graduação Lato Sensu - Especialização, Engenharia de Redes e Sistemas de Telecomunicações. Sempre estive imerso no fascinante mundo do desenvolvimento de software envolvendo projetos Mecatrônicos e Eletromecânicos.
+"☕ Entusiasta técnico por saber como as coisas funcionam. Atuo na intersecção entre Mecânica, Eletroeletrônica e Informática. Com sólida formação (técnico, tecnólogo, engenheiro e lato sensu), foco no desenvolvimento de software/hardware para projetos multidisciplinares, unindo teoria e prática."
 
 --- 
 
 ### 🔌 Microcontrollers & IoT Devices
-- Firmware development for real-time and IoT applications using FreeRTOS, C/C++, and integration with sensors and actuators.
+- Firmware development for real-time and IoT applications using FreeRTOS/Zephyr, C/C++, and integration with sensors and actuators.
 
-🛠 **Technologies:** Raspberry Pi Pico W, FreeRTOS, C, C++
+🛠 **Technologies:** Raspberry Pi Pico W, FreeRTOS/Zephyr, C, C++
 
 📡 **Applications:** Automation, sensor systems, industrial interfaces, MVPs
 
