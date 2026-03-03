@@ -100,16 +100,16 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
-### 🌐 Front-end com Angular
-- Interfaces ricas e responsivas para web, integração com APIs, comunicação assíncrona, reactive forms, gráficos e dashboards.
+### 🌐 Amigo Perto 
+– Monitoramento de Proximidade BLE para PETs
 
-🖼️ Tecnologias: Angular, TypeScript, RxJS, Bootstrap
+🖼️ Tecnologias: Angular (RxJS, NgRX, Signal, Bootstrap), C/C++ (RTOS Zephyr), Bluetooth Low Energy (BLE)
 
-📲 Aplicações: Painéis administrativos, sistemas integrados e UI de IoT
+📲 Aplicações: IoT da ideia ao produto concebido.
 
 
-🔗 [![Project](https://img.shields.io/badge/Angular-TypeScript-orange?style=for-the-badge)](https://github.com/alfecjo/manutencao)
-🚧 **Em desenvolvimento**
+🔗 [![Project](https://img.shields.io/badge/Amigo-Perto-orange?style=for-the-badge)](https://github.com/EmbarcaTech-2025/projeto-amigo-perto)
+🔗 [![Project](https://img.shields.io/badge/Diretrizes-Documentação-success?style=for-the-badge)](https://alinfnetedubr-my.sharepoint.com/:b:/g/personal/antonio_almeida_al_infnet_edu_br/IQDLmHaGW6D2R5n5ihiU8QM0ATQeTITVBKAEjbJWPsk8tG8?e=R1s9je)
 
 ---
 
