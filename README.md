@@ -150,11 +150,11 @@ Atuo na convergência entre o bit e o átomo. Meu foco é construir e integrar s
 - Ao longo dos últimos dez anos, testemunhei o avanço vertiginoso das tecnologias. O cenário se desdobrou em inúmeras possibilidades, com ferramentas poderosas, velocidade de processamento incrível e comunicação instantânea. Isso cria um ambiente exponencialmente atraente, e sinto a necessidade de contribuir para os esforços de modernização e inovação, considerando não apenas os benefícios, mas também os impactos sociais e econômicos.
 
 ### 🥇🎬 Vamos explorar juntos as fronteiras da tecnologia e da inovação! 🤖✨
-
+<!--
 ### ✅ Atualmente estou trabalhando nesse projeto: (👇🏻 veja no youtube)
 
 [![Assista ao vídeo](https://img.youtube.com/vi/rmD16CK9Hl4/maxresdefault.jpg)](https://youtu.be/rmD16CK9Hl4)
-
+-->
 ---
 
 <!-- <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=alfecjo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> 
