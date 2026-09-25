@@ -37,7 +37,9 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 [![AWS Knowledge: Compute](https://images.credly.com/size/110x110/images/c2d44375-6567-495a-b868-d17828c62872/blob)](https://www.credly.com/badges/717ac748-196e-4aa4-9632-01f6abae7813 "AWS Knowledge: Compute")
 [![AWS Knowledge: Migration Foundations](https://images.credly.com/size/110x110/images/af87a78c-bd87-4f68-a179-d3edf6ac59d1/blob)](https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e "AWS Knowledge: Migration Foundations")
 [![AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://images.credly.com/size/110x110/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob)](https://www.credly.com/badges/8d7292f7-8c19-4fd0-b716-db09cc6240a0 "AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations")
-[![AWS Knowledge: Amazon Braket](https://images.credly.com/size/110x110/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob)](https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4 "AWS Knowledge: Amazon Braket")
+<a href="https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4" title="AWS Knowledge: Amazon Braket">
+  <img src="https://images.credly.com/size/110x110/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob" height="110" alt="AWS Knowledge: Amazon Braket" />
+</a>
 [![AWS Knowledge: Networking Core](https://images.credly.com/size/110x110/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob)](https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74 "AWS Knowledge: Networking Core")
 
 [![Cisco Knowledge: Python Essentials 1](https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/earner/earned/badge/2f7487ce-5351-4b2f-b852-560660f2df00 "Cisco Knowledge: Python Essentials 1")
