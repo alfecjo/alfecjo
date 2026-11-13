@@ -21,144 +21,90 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 ### 🎓 ☁️ ...
 
 <p align="left">
-  <a href="https://credly.com" title="AWS Certified Cloud Practitioner">
-    <img src="./badges/aws-cloud-practitioner.png" width="110" alt="AWS Certified Cloud Practitioner" />
+  <a href="https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78" title="AWS Certified Cloud Practitioner">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" alt="AWS Certified Cloud Practitioner" />
   </a>
-  <a href="https://credly.com" title="AWS re/Start - Graduate">
-    <img src="./badges/aws-restart.png" width="110" alt="AWS Educate Getting Started with re/Start - Graduate" />
+  <a href="https://www.credly.com/badges/78fcb09b-1a1d-44b6-85bb-114a7402193b" title="AWS re/Start - Graduate">
+    <img src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="110" alt="AWS Educate Getting Started with re/Start - Graduate" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Getting Started with Serverless">
-    <img src="./badges/aws-educate-serverless.png" width="110" alt="AWS Educate Getting Started with Serverless" />
+  <a href="https://www.credly.com/badges/9b6d8643-c840-4057-89b2-5f4a280141f2" title="AWS Educate Getting Started with Serverless">
+    <img src="https://images.credly.com/size/110x110/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" width="110" alt="AWS Educate Getting Started with Serverless" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Getting Started with Databases">
-    <img src="./badges/aws-educate-databases.png" width="110" alt="AWS Educate Getting Started with Databases" />
+  <a href="https://www.credly.com/badges/4b85ca74-95cf-446c-808d-ba9244108fe3" title="AWS Educate Getting Started with Databases">
+    <img src="https://images.credly.com/size/110x110/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" width="110" alt="AWS Educate Getting Started with Databases" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Getting Started with Storage">
-    <img src="./badges/aws-educate-storage.png" width="110" alt="AWS Educate Getting Started with Storage" />
+  <a href="https://www.credly.com/badges/7ca7bb54-b1bf-46b9-b103-586511496613" title="AWS Educate Getting Started with Storage">
+    <img src="https://images.credly.com/size/110x110/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" width="110" alt="AWS Educate Getting Started with Storage" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Introduction to Cloud 101">
-    <img src="./badges/aws-educate-cloud101.png" width="110" alt="AWS Educate Introduction to Cloud 101" />
+  <a href="https://www.credly.com/badges/e14ef976-f611-435e-9ffa-e95db7768b43" title="AWS Educate Introduction to Cloud 101">
+    <img src="https://images.credly.com/size/110x110/images/e51a8579-188d-4363-8ed1-12ad164ef57b/blob" width="110" alt="AWS Educate Introduction to Cloud 101" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Getting Started with Cloud Ops">
-    <img src="https://githubusercontent.com" width="110" alt="AWS Educate Getting Started with Cloud Ops" />
+  <a href="https://www.credly.com/badges/e9a4d5e3-9671-4465-8e49-d0960ad6d12c" title="AWS Educate Getting Started with Cloud Ops">
+    <img src="https://images.credly.com/size/110x110/images/4251ab91-6d67-47da-801c-855c0bbc6cc3/blob" width="110" alt="AWS Educate Getting Started with Cloud Ops" />
   </a>
-  <a href="https://credly.com" title="AWS Educate Getting Started with Networking">
-    <img src="./badges/aws-educate-networking.png" width="110" alt="AWS Educate Getting Started with Networking" />
+  <a href="https://www.credly.com/earner/earned/badge/64cdc956-0eb8-4349-89ff-2ef15844e15f" title="AWS Educate Getting Started with Networking">
+    <img src="https://images.credly.com/size/110x110/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" width="110" alt="AWS Educate Getting Started with Networking" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Architecting">
-    <img src="./badges/aws-knowledge-architecting.png" width="110" alt="AWS Knowledge: Architecting" />
+  <a href="https://www.credly.com/badges/22dc47fc-c3bc-4ec7-bae8-c50fa015b40d" title="AWS Knowledge: Architecting">
+    <img src="https://images.credly.com/size/110x110/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="110" alt="AWS Knowledge: Architecting" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Cloud Essentials">
-    <img src="./badges/aws-knowledge-cloud-essentials.png" width="110" alt="AWS Knowledge: Cloud Essentials" />
+  <a href="https://www.credly.com/badges/410dd565-18ca-43ff-af09-71ae02398697" title="AWS Knowledge: Cloud Essentials">
+    <img src="https://images.credly.com/size/110x110/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="110" alt="AWS Knowledge: Cloud Essentials" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Serverless">
-    <img src="./badges/aws-knowledge-serverless.png" width="110" alt="AWS Knowledge: Serverless" />
+  <a href="https://www.credly.com/badges/c2d9d52a-19e6-4d5c-87bb-d523a42dec0c" title="AWS Knowledge: Serverless">
+    <img src="https://images.credly.com/size/110x110/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="110" alt="AWS Knowledge: Serverless" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Events and Workflows">
-    <img src="./badges/aws-knowledge-events.png" width="110" alt="AWS Knowledge: Events and Workflows" />
+  <a href="https://www.credly.com/earner/earned/badge/621c2e45-aed7-4cac-afae-f8737de3a694" title="AWS Knowledge: Events and Workflows">
+    <img src="https://images.credly.com/size/110x110/images/b6050277-c769-4d17-8c77-3fa963830231/blob" width="110" alt="AWS Knowledge: Events and Workflows" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: AWS for Games: Cloud Game Development">
-    <img src="./badges/aws-knowledge-games.png" width="110" alt="AWS Knowledge: AWS for Games: Cloud Game Development" />
+  <a href="https://www.credly.com/earner/earned/badge/39633024-d150-4dc7-bbf5-7d560ac4d869" title="AWS Knowledge: AWS for Games: Cloud Game Development">
+    <img src="https://images.credly.com/size/110x110/images/7ad52d33-5620-411e-997a-546b22ed33b7/blob" width="110" alt="AWS Knowledge: AWS for Games: Cloud Game Development" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Amazon EKS">
-    <img src="./badges/aws-knowledge-eks.png" width="110" alt="AWS Knowledge: Amazon EKS" />
+  <a href="https://www.credly.com/earner/earned/badge/fd90f7d6-485a-4915-a382-3686d76c5d39" title="AWS Knowledge: Amazon EKS">
+    <img src="https://images.credly.com/size/110x110/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="110" alt="AWS Knowledge: Amazon EKS" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Compute">
-    <img src="./badges/aws-knowledge-compute.png" width="110" alt="AWS Knowledge: Compute" />
+  <a href="https://www.credly.com/badges/717ac748-196e-4aa4-9632-01f6abae7813" title="AWS Knowledge: Compute">
+    <img src="https://images.credly.com/size/110x110/images/c2d44375-6567-495a-b868-d17828c62872/blob" width="110" alt="AWS Knowledge: Compute" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Migration Foundations">
-    <img src="./badges/aws-knowledge-migration.png" width="110" alt="AWS Knowledge: Migration Foundations" />
+  <a href="https://www.credly.com/badges/1ef1bf0f-4cd8-4208-81fe-d64e9235213e" title="AWS Knowledge: Migration Foundations">
+    <img src="https://images.credly.com/size/110x110/images/af87a78c-bd87-4f68-a179-d3edf6ac59d1/blob" width="110" alt="AWS Knowledge: Migration Foundations" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
-    <img src="./badges/aws-knowledge-media.png" width="110" alt="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations" />
+  <a href="https://www.credly.com/badges/8d7292f7-8c19-4fd0-b716-db09cc6240a0" title="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations">
+    <img src="https://images.credly.com/size/110x110/images/59b94f73-1a96-4467-8af9-5771e65932e7/blob" width="110" alt="AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Amazon Braket">
-    <img src="./badges/aws-knowledge-braket.png" width="110" alt="AWS Knowledge: Amazon Braket" />
+  <a href="https://www.credly.com/earner/earned/badge/765e059e-65db-4e0d-882b-7ef60f67eed4" title="AWS Knowledge: Amazon Braket">
+    <img src="https://images.credly.com/size/110x110/images/811c6414-b84e-4879-bc5c-863fa62be6aa/blob" width="110" alt="AWS Knowledge: Amazon Braket" />
   </a>
-  <a href="https://credly.com" title="AWS Knowledge: Networking Core">
-    <img src="./badges/aws-knowledge-networking.png" width="110" alt="AWS Knowledge: Networking Core" />
+  <a href="https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74" title="AWS Knowledge: Networking Core">
+    <img src="https://images.credly.com/size/110x110/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="110" alt="AWS Knowledge: Networking Core" />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 1">
-    <img src="./badges/cisco-python-1.png" width="90" alt="Cisco Knowledge: Python Essentials 1" />
+  
+  <a href="https://www.credly.com/earner/earned/badge/2f7487ce-5351-4b2f-b852-560660f2df00" title="Cisco Knowledge: Python Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="90" alt="Cisco Knowledge: Python Essentials 1" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 2">
-    <img src="./badges/cisco-python-2.png" width="90" alt="Cisco Knowledge: Python Essentials 2" />
+  <a href="https://www.credly.com/badges/59624a1e-bbb0-41e8-8a33-2c2a1a807011" title="Cisco Knowledge: Python Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="90" alt="Cisco Knowledge: Python Essentials 2" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: HTML Essentials">
-    <img src="./badges/cisco-html.png" width="90" alt="Cisco Knowledge: HTML Essentials" />
+  <a href="https://www.credly.com/badges/3b5f533f-b0ff-4f7a-8f2a-991ff8cc7b1c" title="Cisco Knowledge: HTML Essentials">
+    <img src="https://images.credly.com/size/90x90/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" width="90" alt="Cisco Knowledge: HTML Essentials" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 1">
-    <img src="./badges/cisco-js-1.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
+  <a href="https://www.credly.com/earner/earned/badge/649a5bb6-12bc-40cc-ae0d-1a2d2c33614c" title="Cisco Knowledge: JavaScript Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 2">
-    <img src="./badges/cisco-js-2.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
+  <a href="https://www.credly.com/earner/earned/badge/20395e2d-ee4b-4601-91fc-e9c2078a218c" title="Cisco Knowledge: JavaScript Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 1">
-    <img src="./badges/cisco-cpp-1.png" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
+  <a href="https://www.credly.com/badges/5c80d19b-ba69-4bd1-b03a-36ff4265b167" title="Cisco Knowledge: C++ Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 2">
-    <img src="./badges/cisco-cpp-2.png" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
+  <a href="https://www.credly.com/badges/e7223a93-bdb6-48fb-bc63-a38e78cf513b" title="Cisco Knowledge: C++ Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/f1f94d14-e573-4013-9386-62d417d5a3fb/image.png" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
   </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Advanced">
-    <img src="./badges/cisco-cpp-advanced.png" width="90" alt="Cisco Knowledge: C++ Advanced" />
+  <a href="https://www.credly.com/badges/200661fc-a908-4129-83fd-b5104230e8de" title="Cisco Knowledge: C++ Advanced">
+    <img src="https://images.credly.com/size/90x90/images/dc2d1946-7275-47a8-8f98-acc1da4fd73d/image.png" width="90" alt="Cisco Knowledge: C++ Advanced" />
   </a>
 </p>
 
-<p align="left">
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: HTML Essentials">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: HTML Essentials" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Advanced">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Advanced" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: HTML Essentials">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: HTML Essentials" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 1">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 2">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
-  </a>
-  <a href="https://credly.com" title="Cisco Knowledge: C++ Advanced">
-    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Advanced" />
-  </a>
-</p>
 
 #### Sempre Aperfeiçoando Habilidades:
    [![Project](https://img.shields.io/badge/Minha_Trajetória-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
