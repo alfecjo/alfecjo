@@ -78,33 +78,34 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   <a href="https://www.credly.com/badges/2e741aad-df03-448b-823b-addadc68bb74" title="AWS Knowledge: Networking Core">
     <img src="https://images.credly.com/size/110x110/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="110" alt="AWS Knowledge: Networking Core" />
   </a>
-  
-  <a href="https://www.credly.com/earner/earned/badge/2f7487ce-5351-4b2f-b852-560660f2df00" title="Cisco Knowledge: Python Essentials 1">
-    <img src="https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="90" alt="Cisco Knowledge: Python Essentials 1" />
-  </a>
-  <a href="https://www.credly.com/badges/59624a1e-bbb0-41e8-8a33-2c2a1a807011" title="Cisco Knowledge: Python Essentials 2">
-    <img src="https://images.credly.com/size/90x90/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="90" alt="Cisco Knowledge: Python Essentials 2" />
-  </a>
-  <a href="https://www.credly.com/badges/3b5f533f-b0ff-4f7a-8f2a-991ff8cc7b1c" title="Cisco Knowledge: HTML Essentials">
-    <img src="https://images.credly.com/size/90x90/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" width="90" alt="Cisco Knowledge: HTML Essentials" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/649a5bb6-12bc-40cc-ae0d-1a2d2c33614c" title="Cisco Knowledge: JavaScript Essentials 1">
-    <img src="https://images.credly.com/size/90x90/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
-  </a>
-  <a href="https://www.credly.com/earner/earned/badge/20395e2d-ee4b-4601-91fc-e9c2078a218c" title="Cisco Knowledge: JavaScript Essentials 2">
-    <img src="https://images.credly.com/size/90x90/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
-  </a>
-  <a href="https://www.credly.com/badges/5c80d19b-ba69-4bd1-b03a-36ff4265b167" title="Cisco Knowledge: C++ Essentials 1">
-    <img src="https://images.credly.com/size/90x90/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
-  </a>
-  <a href="https://www.credly.com/badges/e7223a93-bdb6-48fb-bc63-a38e78cf513b" title="Cisco Knowledge: C++ Essentials 2">
-    <img src="https://images.credly.com/size/90x90/images/f1f94d14-e573-4013-9386-62d417d5a3fb/image.png" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
-  </a>
-  <a href="https://www.credly.com/badges/200661fc-a908-4129-83fd-b5104230e8de" title="Cisco Knowledge: C++ Advanced">
-    <img src="https://images.credly.com/size/90x90/images/dc2d1946-7275-47a8-8f98-acc1da4fd73d/image.png" width="90" alt="Cisco Knowledge: C++ Advanced" />
-  </a>
 </p>
 
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/2f7487ce-5351-4b2f-b852-560660f2df00" title="Cisco Knowledge: Python Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="105" alt="Cisco Knowledge: Python Essentials 1" />
+  </a>
+  <a href="https://www.credly.com/badges/59624a1e-bbb0-41e8-8a33-2c2a1a807011" title="Cisco Knowledge: Python Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" width="105" alt="Cisco Knowledge: Python Essentials 2" />
+  </a>
+  <a href="https://www.credly.com/badges/3b5f533f-b0ff-4f7a-8f2a-991ff8cc7b1c" title="Cisco Knowledge: HTML Essentials">
+    <img src="https://images.credly.com/size/90x90/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" width="105" alt="Cisco Knowledge: HTML Essentials" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/649a5bb6-12bc-40cc-ae0d-1a2d2c33614c" title="Cisco Knowledge: JavaScript Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="105" alt="Cisco Knowledge: JavaScript Essentials 1" />
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/20395e2d-ee4b-4601-91fc-e9c2078a218c" title="Cisco Knowledge: JavaScript Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/e090c1e1-dbd4-40f8-bbb3-93cc07884d7f/image.png" width="105" alt="Cisco Knowledge: JavaScript Essentials 2" />
+  </a>
+  <a href="https://www.credly.com/badges/5c80d19b-ba69-4bd1-b03a-36ff4265b167" title="Cisco Knowledge: C++ Essentials 1">
+    <img src="https://images.credly.com/size/90x90/images/fd262680-b0e1-41e0-bd03-6f9ea2b0c4e8/image.png" width="105" alt="Cisco Knowledge: C++ Essentials 1" />
+  </a>
+  <a href="https://www.credly.com/badges/e7223a93-bdb6-48fb-bc63-a38e78cf513b" title="Cisco Knowledge: C++ Essentials 2">
+    <img src="https://images.credly.com/size/90x90/images/f1f94d14-e573-4013-9386-62d417d5a3fb/image.png" width="105" alt="Cisco Knowledge: C++ Essentials 2" />
+  </a>
+  <a href="https://www.credly.com/badges/200661fc-a908-4129-83fd-b5104230e8de" title="Cisco Knowledge: C++ Advanced">
+    <img src="https://images.credly.com/size/90x90/images/dc2d1946-7275-47a8-8f98-acc1da4fd73d/image.png" width="105" alt="Cisco Knowledge: C++ Advanced" />
+  </a>
+</p>
 
 #### Sempre Aperfeiçoando Habilidades:
    [![Project](https://img.shields.io/badge/Minha_Trajetória-Pessoal-darkgreen?style=for-the-badge)](https://alfecjo.github.io/)    
