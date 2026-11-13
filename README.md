@@ -20,7 +20,7 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ### 🎓 ☁️ ...
 <p align="left">
-  <a href="https://credly.com" title="AWS Certified Cloud Practitioner">
+  <a href="https://www.credly.com/badges/c688a674-597d-49b5-9664-9d4bf2ed6e78" title="AWS Certified Cloud Practitioner">
     <img src="https://credly.com" width="110" alt="AWS Certified Cloud Practitioner" />
   </a>
   <a href="https://credly.com" title="AWS re/Start - Graduate">
@@ -79,6 +79,32 @@ https://dev.to/envoy_/150-badges-for-github-pnk
   </a>
 </p>
 
+<p align="left">
+  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 1">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 1" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 2">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 2" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: HTML Essentials">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: HTML Essentials" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 1">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 1" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: JavaScript Essentials 2">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: JavaScript Essentials 2" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 1">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 1" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: C++ Essentials 2">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Essentials 2" />
+  </a>
+  <a href="https://credly.com" title="Cisco Knowledge: C++ Advanced">
+    <img src="https://credly.com" width="90" alt="Cisco Knowledge: C++ Advanced" />
+  </a>
+</p>
 <p align="left">
   <a href="https://credly.com" title="Cisco Knowledge: Python Essentials 1">
     <img src="https://credly.com" width="90" alt="Cisco Knowledge: Python Essentials 1" />
